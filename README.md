@@ -6,6 +6,8 @@
 2. 下載最新的[firmware_esp8266-version.bin](https://github.com/belyalov/tinyweb/releases)
 3. 下載[tinyweb](https://github.com/belyalov/tinyweb/tree/master/tinyweb)
 
-4. 打開uPyCraft
+4. 刷新MicroPython
 
 <img src="docs/1.png" width="300" >
+
+<img src="docs/2.png" width="300" >
